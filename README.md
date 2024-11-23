@@ -48,7 +48,7 @@ I am completely passionate about frontend backend development .
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-F0SS5r?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=F0SS5r)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-F0SS5r?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=F0SS5r)](#) [![Expressjs Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)](#)
 
 <!-- Github Stats   -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
