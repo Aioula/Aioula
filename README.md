@@ -20,7 +20,7 @@ I'm Azedddine Aioula a Computer science student at (UYFM) in Algeria 💻 , I'm 
 I am completely passionate about frontend backend development .
 
 <!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
+# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">
 
 [![Linkedin Badge](https://img.shields.io/badge/-AzeeddineAioula-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeddine-aioula-8b7128290/) 
 [![Mail Badge](https://img.shields.io/badge/-@AzeeddineAioula-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azeddinehayoula/)
@@ -56,6 +56,7 @@ I am completely passionate about frontend backend development .
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
