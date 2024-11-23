@@ -20,14 +20,14 @@ I'm Azedddine Aioula a Computer science student at (UYFM) in Algeria 💻 , I'm 
 I am completely passionate about frontend backend development .
 
 <!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
 
 [![Linkedin Badge](https://img.shields.io/badge/-AzeeddineAioula-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeddine-aioula-8b7128290/) 
 [![Mail Badge](https://img.shields.io/badge/-@AzeeddineAioula-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azeddinehayoula/)
 [![Mail Badge](https://img.shields.io/badge/-AzeeddineAioula-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](azeddineaioula@gmail.com)
 
 
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=Aioula)
 <img src="https://img.shields.io/badge/Age-20-blue" />
 
 <!-- Ligne  -->
@@ -59,7 +59,7 @@ I am completely passionate about frontend backend development .
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center" >
 
 | Choose your language         | Flags                                                                                                              |
@@ -69,7 +69,7 @@ I am completely passionate about frontend backend development .
 | [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
 
 </div>
-
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Credit: [Azeddine Aioula](https://github.com/Aioula) 
