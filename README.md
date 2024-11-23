@@ -10,13 +10,13 @@
   </p> -->
   
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
+<img title="My Avatar" align="left" src="https://github.com/AzizBenIsmail/AzizBenIsmail/blob/main/assets/images/Aziz.png"  width="500px" alt="hi" >
 
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Azedddine Aioula a Computer science student at (UYFM) in Algeria 💻 , I'm 20 years old .
+I'm Azedddine Aioula a Computer science student at (UYFM) in Algeria 💻 , I'm 20 years old .<br>
 I am completely passionate about frontend backend development .
 
 <!-- Let's Connect..! -->
