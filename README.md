@@ -55,7 +55,7 @@ I am completely passionate about frontend backend development .
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aioula&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aioula&&theme=algolia" alt="AzeddineAioula" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
