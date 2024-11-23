@@ -75,22 +75,7 @@ I am completely passionate about frontend backend development .
 Credit: [Azeddine Aioula](https://github.com/Aioula) 
 
 Last Edited on: 23/11/2024
-<details> 
-  
-  <div>
-  <samp>
-      <br/>
-            <p align="center">
-      </p>
-       
-    <br>
 
-
-
-
-
-<br>
-</details>
 
 
 
