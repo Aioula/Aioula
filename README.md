@@ -16,7 +16,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Azedddine Aioula a Computer science student at (UYFM) in Algeria 💻 , I'm 20 years old .<br>
+I'm Azedddine Aioula a Computer science student at (UYFM) in Algeria 💻 , I'm 19 years old .<br>
 I am completely passionate about frontend backend development .
 
 <!-- Let's Connect..! -->
@@ -28,7 +28,7 @@ I am completely passionate about frontend backend development .
 
 
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Aioula)
-<img src="https://img.shields.io/badge/Age-20-blue" />
+<img src="https://img.shields.io/badge/Age-19-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
