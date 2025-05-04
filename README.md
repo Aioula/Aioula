@@ -16,7 +16,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Azedddine Aioula a Computer science student at (UYFM) in Algeria 💻 , I'm 19 years old .<br>
+I'm Azedddine Aioula a Computer science student at (UYFM) in Algeria 💻 , I'm 20 years old .<br>
 I am completely passionate about frontend backend development .
 
 <!-- Let's Connect..! -->
